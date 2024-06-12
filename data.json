@@ -1,0 +1,98 @@
+[
+    {
+        "id": "832df35e-3",
+        "nama": "salmon",
+        "jenis": "ikan",
+        "habitat": "air laut",
+        "bayi": 1000,
+        "remaja": 950,
+        "dewasa": 900,
+        "harga_satuan": 100000,
+        "banyak_terjual": 900,
+        "pendapatan": 90000000
+    },
+    {
+        "id": "832df95e-3",
+        "nama": "salmn",
+        "jenis": "ikn",
+        "habitat": "ar laut",
+        "bayi": 10000,
+        "remaja": 9500,
+        "dewasa": 9000,
+        "harga_satuan": 1000000,
+        "banyak_terjual": 9000,
+        "pendapatan": 9000000000
+    },
+    {
+        "id": "4064680e-e",
+        "nama": "lobster mutiara",
+        "jenis": "udang",
+        "habitat": "air tawar",
+        "bayi": 993,
+        "remaja": 993,
+        "dewasa": 990,
+        "harga_satuan": 80000,
+        "banyak_terjual": 989,
+        "pendapatan": 79120000
+    },
+    {
+        "id": "5c015c19-5",
+        "nama": "lele",
+        "jenis": "ikan",
+        "habitat": "air tawar",
+        "bayi": 1500,
+        "remaja": 1500,
+        "dewasa": 2000,
+        "harga_satuan": 20000,
+        "banyak_terjual": 2000,
+        "pendapatan": 40000000
+    },
+    {
+        "id": "f853ee01-f",
+        "nama": "mujair",
+        "jenis": "ikan",
+        "habitat": "air tawar",
+        "bayi": 900,
+        "remaja": 500,
+        "dewasa": 450,
+        "harga_satuan": 20000,
+        "banyak_terjual": 400,
+        "pendapatan": 8000000
+    },
+    {
+        "id": "0524c67f-d",
+        "nama": "udang laut karang",
+        "jenis": "udang",
+        "habitat": "air laut",
+        "bayi": 600,
+        "remaja": 500,
+        "dewasa": 0,
+        "harga_satuan": 8000,
+        "banyak_terjual": 0,
+        "pendapatan": 0
+    },
+    {
+        "id": "4389fdb0-3",
+        "nama": "kepiting bakau",
+        "jenis": "kepiting",
+        "habitat": "air payau",
+        "bayi": 300,
+        "remaja": 300,
+        "dewasa": 300,
+        "harga_satuan": 24000,
+        "banyak_terjual": 300,
+        "pendapatan": 7200000
+    },
+    {
+        "id": "2d6e9b06-f",
+        "nama": "ikan mas",
+        "jenis": "ikan",
+        "habitat": "air tawar",
+        "bayi": 450,
+        "remaja": 388,
+        "dewasa": 388,
+        "harga_satuan": 8000,
+        "banyak_terjual": 372,
+        "pendapatan": 2976000
+    }
+]
